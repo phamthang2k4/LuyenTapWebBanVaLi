@@ -135,3 +135,6 @@ D:\Năm 3\Lập trình web\ThucHanhWebMVC1\ThucHanhWebMVC1\bin\Debug\net8.0\runt
 D:\Năm 3\Lập trình web\ThucHanhWebMVC1\ThucHanhWebMVC1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\Năm 3\Lập trình web\ThucHanhWebMVC1\ThucHanhWebMVC1\obj\Debug\net8.0\ThucHanhWebMVC1.csproj.AssemblyReference.cache
 D:\Năm 3\Lập trình web\ThucHanhWebMVC1\ThucHanhWebMVC1\obj\Debug\net8.0\ThucHanh.1ED09482.Up2Date
+D:\Năm 3\Lập trình web\ThucHanhWebMVC1\ThucHanhWebMVC1\bin\Debug\net8.0\X.PagedList.dll
+D:\Năm 3\Lập trình web\ThucHanhWebMVC1\ThucHanhWebMVC1\bin\Debug\net8.0\X.PagedList.Mvc.Core.dll
+D:\Năm 3\Lập trình web\ThucHanhWebMVC1\ThucHanhWebMVC1\obj\Debug\net8.0\ThucHanhWebMVC1.MvcApplicationPartsAssemblyInfo.cs
