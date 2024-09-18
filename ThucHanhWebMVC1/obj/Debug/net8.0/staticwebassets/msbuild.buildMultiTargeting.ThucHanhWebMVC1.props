@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ThucHanhWebMVC1.props" />
+</Project>

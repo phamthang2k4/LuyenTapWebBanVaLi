@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ThucHanhWebMVC1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8278e471b2c2c4600b7c12bb15196004b4394f6e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ThucHanhWebMVC1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ThucHanhWebMVC1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
