@@ -1,7 +1,17 @@
+using Microsoft.EntityFrameworkCore;
+using ThucHanhWebMVC1.Models;
+using ThucHanhWebMVC1.Repository;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+var connectionSrting = builder.Configuration.GetConnectionString("QlbanVaLiContext");
+builder.Services.AddDbContext<QlbanVaLiContext>(x=>x.UseSqlServer(connectionSrting));
+
+builder.Services.AddScoped<ILoaiSpRepository, LoaiSpRepository>();
+
 
 var app = builder.Build();
 
